@@ -1,4 +1,7 @@
 # Movie_Catalogue
 # Bukti_Screenshot_di_Emulator_Android_Studio
-![Screenshot (35)](https://user-images.githubusercontent.com/101694628/171150759-bd4c405d-79e7-4528-9577-3d043982e03f.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/101694628/171159186-1ef4fa26-51c2-4f6a-8181-9af60149e657.png)
+# Bukti_screenShot_di_Emulator_Smartphone_android
+
+
 
